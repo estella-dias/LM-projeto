@@ -1,0 +1,178 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Ysabeau';
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+:root{
+    --text-color: #1C1C1C; 
+    --logo-color: #F5F5F5; 
+
+}
+
+body{
+    color: var(--text-color);
+    
+}
+
+header{
+    position: relative;
+    z-index: 1000;
+    top: 0;
+    right: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 27px 9%; 
+    border-radius: 20px;
+}
+
+.logo{
+    font-weight: 700;
+    color: var(--text-color);
+    font-size: 30px;
+    font-family: 'Yeseva One';
+    align-items: center;
+}
+
+h1{
+    padding-top: 50px;
+    align-items: center;
+    padding-left: 50px;
+    font-family: 'Quicksand';
+    font-weight: 300;
+    font-size: 20px;
+}
+
+img{
+    padding-top: 30px;
+    padding-left: 5px;
+}
+
+.conteiner{
+    display: flex;
+    position: relative;
+    padding-top: 10px;
+    padding-left: 75px;
+    padding-right: 75px;
+}
+
+.legenda{
+    position: absolute;
+    bottom: 10px;
+    padding-left: 0px;
+    margin-left: 50px;
+    align-items: center;
+}
+
+.legenda h1{
+    font-size: 10px;
+    font-weight: bold;
+    padding-left: 0px; 
+    background-color: #F5F5F5;
+    padding: 0%;
+    justify-content: center;
+    color: var(--text-color);
+}
+
+.legenda-2{
+    position: absolute;
+    bottom: 10px;
+    padding-left: 0px;
+    margin-left: 250px;
+    align-items: center;
+}
+
+.legenda-2 h1{
+    font-size: 10px;
+    font-weight: bold;
+    padding-left: 0px;
+    background-color: #F5F5F5;
+    padding: 0%;
+    justify-content: center;
+    color: var(--text-color);
+}
+
+.legenda-3{
+    position: absolute;
+    bottom: 10px;
+    padding-left: 0px;
+    margin-left: 450px;
+    align-items: center;
+}
+
+.legenda-3 h1{
+    font-size: 10px;
+    font-weight: bold;
+    padding-left: 0px;
+    background-color: #F5F5F5;
+    padding: 0%;
+    justify-content: center;
+    color: var(--text-color);
+}
+
+.legenda-4{
+    position: absolute;
+    bottom: 10px;
+    padding-left: 0px;
+    margin-left: 650px;
+    align-items: center;
+}
+
+.legenda-4 h1{
+    font-size: 10px;
+    font-weight: bold;
+    padding-left: 0px;
+    background-color: #F5F5F5;
+    padding: 0%;
+    justify-content: center;
+    color: var(--text-color);
+}
+
+.legenda-5{
+    position: absolute;
+    bottom: 10px;
+    padding-left: 0px;
+    margin-left: 850px;
+    align-items: center;
+}
+
+.legenda-5 h1{
+    font-size: 10px;
+    font-weight: bold;
+    padding-left: 0px;
+    background-color: #F5F5F5;
+    padding: 0%;
+    justify-content: center;
+    color: var(--text-color);
+}
+
+.legenda-6{
+    position: absolute;
+    bottom: 10px;
+    padding-left: 0px;
+    margin-left: 78%;
+    align-items: center;
+}
+
+.legenda-6 h1{
+    font-size: 10px;
+    font-weight: bold;
+    padding-left: 0px;
+    background-color: #F5F5F5;
+    padding: 0%;
+    justify-content: center;
+    color: var(--text-color);
+}
+
+.conteiner-2{
+    display: flex;
+    position: relative;
+    padding-top: 10px;
+    padding-left: 75px;
+    padding-right: 75px;
+}
